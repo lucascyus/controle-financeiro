@@ -1,0 +1,15 @@
+C:\Users\fshlu\OneDrive\Documents\fac\finan\bin\Debug\net7.0\finan.exe
+C:\Users\fshlu\OneDrive\Documents\fac\finan\bin\Debug\net7.0\finan.deps.json
+C:\Users\fshlu\OneDrive\Documents\fac\finan\bin\Debug\net7.0\finan.runtimeconfig.json
+C:\Users\fshlu\OneDrive\Documents\fac\finan\bin\Debug\net7.0\finan.dll
+C:\Users\fshlu\OneDrive\Documents\fac\finan\bin\Debug\net7.0\finan.pdb
+C:\Users\fshlu\OneDrive\Documents\fac\finan\obj\Debug\net7.0\finan.csproj.AssemblyReference.cache
+C:\Users\fshlu\OneDrive\Documents\fac\finan\obj\Debug\net7.0\finan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fshlu\OneDrive\Documents\fac\finan\obj\Debug\net7.0\finan.AssemblyInfoInputs.cache
+C:\Users\fshlu\OneDrive\Documents\fac\finan\obj\Debug\net7.0\finan.AssemblyInfo.cs
+C:\Users\fshlu\OneDrive\Documents\fac\finan\obj\Debug\net7.0\finan.csproj.CoreCompileInputs.cache
+C:\Users\fshlu\OneDrive\Documents\fac\finan\obj\Debug\net7.0\finan.dll
+C:\Users\fshlu\OneDrive\Documents\fac\finan\obj\Debug\net7.0\refint\finan.dll
+C:\Users\fshlu\OneDrive\Documents\fac\finan\obj\Debug\net7.0\finan.pdb
+C:\Users\fshlu\OneDrive\Documents\fac\finan\obj\Debug\net7.0\finan.genruntimeconfig.cache
+C:\Users\fshlu\OneDrive\Documents\fac\finan\obj\Debug\net7.0\ref\finan.dll
